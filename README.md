@@ -38,7 +38,7 @@ There is also a notebook available here to showcsae all my work related to my th
 
 # Results<a name="results"></a>
 
-The main findings of the code can be found at the post available
+The main findings of the code can be found at the [post](https://medium.com/@lendale.vijaylaxmi/detecting-fake-news-80bcdce97008) available
 
 
 
