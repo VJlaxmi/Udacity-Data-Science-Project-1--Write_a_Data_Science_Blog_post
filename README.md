@@ -40,13 +40,11 @@ In my project, my main motivation is to find out answers for the following quest
 
 There is also a notebook available here to showcsae all my work related to my three questions.
 
-<a name="Results"></a>
-#### Results 
+## Results<a name="results"></a>
 
 The exploration and anlyasis of this data has been posted in Medium as a blogspot and you can access the same [here](https://medium.com/@lendale.vijaylaxmi/detecting-fake-news-80bcdce97008).
 
-<a name="Licensing"></a>
-#### Licensing, Authors, Acknowledgements 
+## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
 Data :- Kaggle & Sulman Sarwar Access the same [here](https://www.kaggle.com/sulmansarwar/transactions-from-a-bakery#BreadBasket_DMS.csv)
 
