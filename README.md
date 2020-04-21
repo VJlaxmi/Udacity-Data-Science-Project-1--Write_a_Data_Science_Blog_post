@@ -26,9 +26,13 @@ seaborn.
 ## Project Motivation<a name="motivation"></a>
 
 Nowadays people buy daily goods from super market nearby. There are many supermarkets that provide goods to their customer. The problem many retailers face is the placement of the items. They are unaware of the purchasing habits of the customer so they don’t know which items should be placed together in their store. 
+
 In my project, my main motivation is to find out answers for the following questions
+
 *__Question 1__*: What are the top 10 items sold rank by percentage and value?
+
 *__Question 2__*: What are the number of items sold by the day, month and hour?
+
 *__Question 3__*: How many each weekday in that period of the transaction take place to calculate the average items per weekday?
 
 
