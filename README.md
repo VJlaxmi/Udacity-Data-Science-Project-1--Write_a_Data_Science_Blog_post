@@ -7,12 +7,13 @@ Udacity data science nanodegree project 1
 2. [Project Motivation](#motivation)
 3. [File Descriptions](#files)
 4. [Results](#results)
+5. [Licensing, Authors, and Acknowledgements](#licensing)
 
 
 ## Installation <a name="installation"></a>
 
 This project was created and run using Python version 3.0.
-Plugins and imports used were: Pandas, MatplotLib, Folium, Folium Plugins
+Plugins and imports used were: Pandas, MatplotLib.
 
 Libraries:
 Pandas.
@@ -24,21 +25,30 @@ seaborn.
 
 ## Project Motivation<a name="motivation"></a>
 
-Detecting so-called “fake news” is no easy task. First, there is defining what fake news is – given it has now become a political statement. If you can find or agree upon a definition, then you must collect and properly label real and fake news (hopefully on similar topics to best show clear distinctions). Once collected, you must then find useful features to determine fake from real news.
-In my project, my main motivation is to find out whether a news article it is fake or not. At the end, the user will know the probability of the news being fake or not.
-1. Why Detecting Fake News?
-2. Which one is fake?
-3. How to detect fake news?
-4. What is fake news ?
+Nowadays people buy daily goods from super market nearby. There are many supermarkets that provide goods to their customer. The problem many retailers face is the placement of the items. They are unaware of the purchasing habits of the customer so they don’t know which items should be placed together in their store. 
+In my project, my main motivation is to find out answers for the following questions
+*__Question 1__*: What are the top 10 items sold rank by percentage and value?
+*__Question 2__*: What are the number of items sold by the day, month and hour?
+*__Question 3__*: How many each weekday in that period of the transaction take place to calculate the average items per weekday?
 
 
 ## File Descriptions <a name="files"></a>
 
+*__Datascience_1.ipynb__* :- Jupyter notebook containing the process of reading the input files , processing them and creating the visualizations
+
+*__BreadBasket_DMS.csv__* :- Kaggle dataset
+
 There is also a notebook available here to showcsae all my work related to my three questions.
 
-# Results<a name="results"></a>
+<a name="Results"></a>
+#### Results 
 
-The main findings of the code can be found at the [post](https://medium.com/@lendale.vijaylaxmi/detecting-fake-news-80bcdce97008) available
+The exploration and anlyasis of this data has been posted in Medium as a blogspot and you can access the same [here](https://medium.com/@lendale.vijaylaxmi/detecting-fake-news-80bcdce97008).
+
+<a name="Licensing"></a>
+#### Licensing, Authors, Acknowledgements 
+
+Data :- Kaggle & Sulman Sarwar Access the same [here](https://www.kaggle.com/sulmansarwar/transactions-from-a-bakery#BreadBasket_DMS.csv)
 
 
 
